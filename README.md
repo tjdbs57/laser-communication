@@ -6,6 +6,27 @@
 
 ---
 
+## 📚 Tech Stack
+
+<div align="center">
+
+### 💻 Language
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+
+### ⚙️ Platform
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white">
+
+### 🔧 Library / Interface
+<img src="https://img.shields.io/badge/pigpio-DMA%20GPIO-blue?style=for-the-badge">
+
+### 🛠 Tools
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GCC-Compiler-6DA55F?style=for-the-badge">
+
+</div>
+
+---
 ## Overview
 
 * Laser + CdS 센서를 이용한 광 기반 통신 시스템 구현
